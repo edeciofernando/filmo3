@@ -57,10 +57,13 @@ class FormCadastro extends React.Component {
               name="genero"
               onChange={this.campos}>
               <option></option>
+              <option>Animação</option>
               <option>Aventura</option>
               <option>Comédia</option>
               <option>Drama</option>
+              <option>Infantil</option>
               <option>Romance</option>
+              <option>Suspense</option>
               </select>
           </div>
         </div>
